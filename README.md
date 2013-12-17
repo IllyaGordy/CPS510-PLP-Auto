@@ -21,7 +21,7 @@ This readme contains brief descriptions with regards to the functionality of all
 (II)			INSTALLATION
 ==================================================================
 
-1. Access the Solaris operation system. If using Ryerson local Moons this can be done by typing the �ssh turing.acs.ryerson.ca command in the terminal
+1. Access the Solaris operation system. If using Ryerson local Moons this can be done by typing the "ssh turing.acs.ryerson.ca" command in the terminal
 
 2. Setup DB2 environment by entering ". db2init" command
 
