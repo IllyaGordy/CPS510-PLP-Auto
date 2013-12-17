@@ -5,6 +5,12 @@ For this project we had to create a sample database management system using DB2 
 
 This readme contains brief descriptions with regards to the functionality of all code write for the PLP Autos car dealership project. There are also instructions provided for compiling each solution.
 
+Group Members:  
+- Daniel Moscuzza 
+- Praveer Sidhu
+- Yuriy Demchuk
+- Illya Gordiyenko
+ 
 
 
 
